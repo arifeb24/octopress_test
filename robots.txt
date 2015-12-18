@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://arifeb24.github.io/octopress_test/sitemap.xml 
