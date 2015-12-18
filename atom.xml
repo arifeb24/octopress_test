@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://arifeb24.github.io/octopress_test/atom.xml" rel="self"/>
   <link href="http://arifeb24.github.io/octopress_test/"/>
-  <updated>2015-12-18T15:52:00+07:00</updated>
+  <updated>2015-12-18T17:56:04+07:00</updated>
   <id>http://arifeb24.github.io/octopress_test/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress Test]]></title>
+    <link href="http://arifeb24.github.io/octopress_test/blog/2015/12/18/octopress-test/"/>
+    <updated>2015-12-18T16:01:58+07:00</updated>
+    <id>http://arifeb24.github.io/octopress_test/blog/2015/12/18/octopress-test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
